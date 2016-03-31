@@ -14,11 +14,11 @@ comments: false
 > STATA应用为金融研究软件入门基础，在《精算模型》，《计量经济学》与《时间序列》等课程中都需要使用
 > 
 > 来源：陈晓兰
-> 
-> * 需使用STATA文件打开
-> * 包含内容：STATA软件入门do file
-> 			  STATA软件包
-> 
+
+ * 需使用STATA文件打开
+ * 包含内容：STATA软件入门do file
+ 			 STATA软件包
+
   
 [下载](http://ecoatscu.101010.io/downloads/数学分析习题答案(陈纪修第二版).rar)STATA软件学习包
 
