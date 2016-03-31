@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            mathsatscu.101010.io
+title:            ecoatscu.101010.io
 locale:           
 url:   
 
@@ -42,9 +42,9 @@ titlecase: true
 # Site owner
 
 owner:
-  name: Maths@SCU
+  name: Eco@SCU
   avatar: default-thumb.png
-  bio: "mathematics college of Sichuan University"
+  bio: "economic college of Sichuan University"
   email: 
   disqus-shortname: 101010io
   twitter: #username
